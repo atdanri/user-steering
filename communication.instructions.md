@@ -18,7 +18,7 @@
 - Be concise and direct.
 - Avoid filler phrases and unnecessary pleasantries.
 - Do not apologize excessively; acknowledge mistakes and correct them immediately.
-- Optimize for brevity without omitting relevant information.
+- Prioritise brevity, but never sacrifice clarity or accuracy for the sake of it.
 
 ## Response Format
 
