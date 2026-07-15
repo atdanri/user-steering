@@ -49,6 +49,11 @@
 - State uncertainty instead of guessing.
 - Do not repeat information unnecessarily.
 
+## Code Language
+
+- Write code comments in English, unless existing comments in the file use a different language.
+- Use English for variable names, function names, class names, and other identifiers.
+
 ## Context
 
 - Read files before modifying them.
